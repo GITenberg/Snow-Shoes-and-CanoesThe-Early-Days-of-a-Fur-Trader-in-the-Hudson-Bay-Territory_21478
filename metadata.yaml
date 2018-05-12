@@ -1,0 +1,41 @@
+_repo: Snow-Shoes-and-CanoesThe-Early-Days-of-a-Fur-Trader-in-the-Hudson-Bay-Territory_21478
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Little, Norman
+    gutenberg_agent_id: '24739'
+    url: http://www.gutenberg.org/2009/agents/24739
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Canada -- Juvenile fiction'
+- !lcsh 'Fur traders -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Northwest, Canadian -- Juvenile fiction'
+- !lcsh 'Survival skills -- Juvenile fiction'
+title: "Snow Shoes and Canoes\r\nOr, The Early Days of a Fur-Trader in the Hudson\
+  \ Bay Territory"
+url: http://www.gutenberg.org/ebooks/21478
